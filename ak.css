@@ -1,0 +1,87 @@
+.ak{
+    margin-top:30px;
+    
+}
+
+.image{
+    border-radius:50%;
+    height:100px;
+    width:100px;
+}
+.fa-book{
+    margin-top:25px ;
+    margin-left:0px;
+    padding-right:25px;
+}
+.d  p{
+    font-weight:bold;
+    color:blue;
+   
+}
+.d{
+    margin-top:10px;
+    background-color:rgb(173, 221, 191);
+}
+.card{
+    background-color: lightsteelblue;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:10px;
+}
+.f{
+    margin-right:10px;
+}
+.singup{
+    margin-top:40px;
+    padding:30px;
+    border-radius:5px;
+    border-style: solid;
+    color:blue;
+    background-color: rgb(135, 140, 146);
+  
+    border-color: rgb(138, 245, 15);
+    box-shadow:0px 1px 36px 5px rgba(0,0,0,0.28);
+}
+.bg{
+    background-color: rgb(148, 179, 78);
+}
+
+.footer{
+    margin:40px;
+    background-color: lightsalmon;
+}
+.h{
+    background-color: lightyellow;
+}
+.pay{
+    margin-top:40px;
+    padding:30px;
+    border-radius:5px;
+    border-style: solid;
+    color:blue;
+    background-color: rgb(135, 140, 146);
+  
+    border-color: rgb(138, 245, 15);
+    box-shadow:0px 1px 36px 5px rgba(0,0,0,0.28);
+
+}
+#btnShowMsg{
+    background-color: lightpink;
+    width:100px;
+    justify-content: center;
+    margin-right: 0;
+    padding-right: 0;
+}
+ .dropdown-menu{
+    margin: 0;
+    padding:0;
+    width:0;
+    text-align: center;
+    border: none;
+    background-clip: none;
+    min-width:none;
+    border-radius: 0;
+    padding-right: 0;
+    padding-left: 0;
+    background-color: lightpink;
+}
